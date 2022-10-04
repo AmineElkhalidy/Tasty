@@ -255,7 +255,7 @@ button {
 }
 
 /* Show scrolltop */
-.scroll-top {
+.show-scroll {
   visibility: visible;
   bottom: 1.5rem;
 }
