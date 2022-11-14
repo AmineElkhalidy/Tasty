@@ -262,7 +262,7 @@ button {
 
 /*========== Home ==========*/
 .home__container {
-  height: calc(100vh - 3.5rem);
+  min-height: calc(100vh - 3.5rem);
   align-content: center;
 }
 
